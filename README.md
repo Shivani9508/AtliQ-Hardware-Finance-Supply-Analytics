@@ -1,15 +1,18 @@
 # AtliQ-Hardware-Finance-Supply-Analytics
 
 
-HI ! This repository contains the code and SQL queries utilized for the Finance & Supply Chain Domain section of the Data Analytics Bootcamp at Codebasics.
+HI ! This repository contains the code and SQL queries utilized for the Finance & sales Domain section of the Data Analytics Bootcamp at Codebasics.
 
 Overview : 
+
 In this project, delveing into a dataset related to Finance & Supply Chain within the domain of AtliQ Hardwares. AtliQ Hardwares is a renowned hardware company specializing in PCs, printers, mice, and computers, boasting a global presence.
 
 Project Objective :
+
 This project is designed to analyze and extract valuable insights from the provided database. The database contains information about sales, products, customers, and regions for Atliq Hardware. I aim to address specific questions related to sales report and market analysis.
 
 Problem Statement :
+
 The expanding size of Excel files has led to numerous performance porblems in the organization, which results in unresponsiveness and inefficiency. AtliQ Hardware has launched a project to tackle this issue by assembling a team of data analysts. They will utilize MySQL as their database management system to extract meaningful insights from the data. These insights will empower the company to enhance decision-making and optimize operations, ultimately boosting overall performance.
 
 Key Insights: 
